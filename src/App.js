@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 import FacebookLogin from 'react-facebook-login';
